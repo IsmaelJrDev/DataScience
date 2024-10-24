@@ -3,4 +3,4 @@ Este repositorio tiene como propósito el compendio de las actividades realizada
 
 Todo esto es genérado en un entorno virtual con ayuda de Anaconda Navigator en un SO Linux *(Fedora en mi caso)*, haciendo uso de Jupyter Notebook.
 
-Además de solo ser un compendio de actividades básicas, tambien contará con algunos ejercicios realizados y solucionados en clase.
+Además de solo ser un compendio de actividades básicas, tambien contará con algunos ejercicios realizados y solucionados en clase de la materia de simulación.
