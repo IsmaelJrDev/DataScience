@@ -3,4 +3,4 @@ Este repositorio tiene como propósito el compendio de las actividades realizada
 
 Todo esto es genérado en un entorno virtual con ayuda de Anaconda Navigator en un SO Linux *(Ubuntu en mi caso)*, haciendo uso de la herramienta Jupyter Notebook.
 
-Además de solo ser un compendio de actividades básicas, tambien contará con algunos ejercicios realizados y solucionados en clase de la materia de simulación del plan de estudios de la Carrera de Ingenieria en Sistemas Computacionales en el Tecológico Nacional de México. M
+Además de solo ser un compendio de actividades básicas, tambien contará con algunos ejercicios realizados y solucionados en clase de la materia de simulación del plan de estudios de la Carrera de Ingenieria en Sistemas Computacionales en el Tecológico Nacional de México.
