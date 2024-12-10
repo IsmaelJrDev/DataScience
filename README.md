@@ -9,4 +9,4 @@ En **Wiki** podrás encontrar más acerca de como instalar correctamente tu ambi
 
 # Instalación de Anaconda en Linux
 ### 1.- Descargar el ejecutable
-En la página oficial de [Anaconda](https://www.anaconda.com/download/success) encontramos su archivo ejecutable para tu Sistema Operativo.
+En la página oficial de [Anaconda](https://www.anaconda.com/download/success) podemos descargar su archivo ejecutable para tu Sistema Operativo.
