@@ -7,6 +7,10 @@ Además de solo ser un compendio de actividades básicas, tambien contará con a
 
 En **Wiki** podrás encontrar más acerca de como instalar correctamente tu ambiente virtual usando `Anaconda` para poder correr los *Notebooks* sin que tenga algún riesgo a tu sistema operativo principal.
 
-# Instalación de Anaconda en Linux
-### 1.- Descargar el ejecutable
+# Preparación e instalación de Anaconda en Linux
+
+
+
+
+### 2.- Descargar el ejecutable
 En la página oficial de [Anaconda](https://www.anaconda.com/download/success) podemos descargar su archivo ejecutable para tu Sistema Operativo. Sin embargo, este tipo de prácticas son recomendables realizarle en un SO **Linux** sin importar la distribución que prefieras.
